@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">PM1E110065</string>
+    <string name="texto_atras">Atras</string>
+    <string name="texto_compartir">Compartir</string>
+    <string name="texto_VerImagen">VerImagen</string>
+    <string name="texto_eliminarr">Eliminar</string>
+    <string name="texto_actualizar">Actualizar</string>
+
+</resources>
